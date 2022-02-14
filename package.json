@@ -13,7 +13,7 @@
   "author": "Jay Chen",
   "license": "ISC",
   "dependencies": {
-    "concurrently": "^4.1.2",
+    "concurrently": "^7.0.0",
     "express": "^4.17.1",
     "http-proxy-middleware": "^0.20.0",
     "mongoose": "^5.7.7"
